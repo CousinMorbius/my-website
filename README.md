@@ -4,6 +4,4 @@
 
 random update...
 
-## Purpose
-
-This is just a random readme file. 
+text
